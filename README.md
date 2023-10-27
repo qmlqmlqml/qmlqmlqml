@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**qmlqmlqml/qmlqmlqml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on XXX
+- 💬 Ask me about XXXXX
+- 📫 How to reach me (wechatId): xxxx
+- ⚡ Blog: [www.baidu.com](https://www.baidu.com)
 
-Here are some ideas to get you started:
+<span>
+  < img align="center" src="https://github-readme-stats.vercel.app/api?username=qmlqmlqml&count_private=true&show_icons=true&&theme=onedark" />
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+  < img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmlqmlqml&theme=onedark&layout=compact" />
+</span>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qmlqmlqml&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
