@@ -7,13 +7,11 @@
 - ⚡ Blog: [www.baidu.com](https://www.baidu.com)
 
 <span>
-  < img align="center" src="https://github-readme-stats.vercel.app/api?username=qmlqmlqml&count_private=true&show_icons=true&&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qmlqmlqml&count_private=true&show_icons=true&&theme=onedark" />
 </span>
+
 <span>
-  < img align="center" src="https://github-readme-stats.vercel.app/api?username=hamuPP&count_private=true&show_icons=true&&theme=onedark" />
-</span>
-<span>
-  < img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmlqmlqml&theme=onedark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qmlqmlqml&theme=onedark&layout=compact" />
 </span>
 
 
